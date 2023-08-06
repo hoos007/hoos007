@@ -33,10 +33,10 @@
 
 
 ***
-<a href="">
+<a href="https://github.com/hoos007">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=hoos007&show_icons=true&hide=issues" />
 </a>
-<a href="">
+<a href="https://github.com/hoos007">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoos007&layout=compact&langs_count=8&card_width=500" />
 </a>
 <!--
