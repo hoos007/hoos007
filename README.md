@@ -1,7 +1,9 @@
 ## hoos007 👋
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoos007&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/hoos007) [![Naver mail](https://img.shields.io/badge/Mail-03C75A?style=flat&logo=naver&logoColor=white)](mailto:hoos007@naver.com) [![Git Hub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)](https://github.com/hoos007) [![blog](https://img.shields.io/badge/Tech_blog-00B8FC?style=flat&logo=&logoColor=white)](https://hoos007.github.io)
 
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hoos007">
+<a href="https://solved.ac/profile/hoos007">
+  <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=hoos007">
+</a>
 
 성장을 즐기는 개발자 **이효승** 입니다.
 
