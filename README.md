@@ -37,7 +37,7 @@
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=hoos007&show_icons=true&hide=issues" />
 </a>
 <a href="https://github.com/hoos007">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoos007&layout=compact&langs_count=6&card_width=500" />
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hoos007&layout=compact&langs_count=6&card_width=400" />
 </a>
 <!--
 **hoos007/hoos007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
