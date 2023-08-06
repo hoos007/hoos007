@@ -21,6 +21,10 @@
 ### 이력
 - 신라대학교 컴퓨터소프트웨어공학부 클라우드/빅데이터전공 (2018.03 ~ 2024.02)
 
+### 자격증
+- 정보처리기사
+
+
 <!--
 **hoos007/hoos007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
