@@ -1,3 +1,4 @@
+<!--
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=hoos007&fontSize=40&fontColor=D8D8D8&fontAlign=15&fontAlignY=55&animation=fadeIn)
 <br>[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoos007&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://github.com/hoos007) [![Naver mail](https://img.shields.io/badge/Mail-03C75A?style=flat&logo=naver&logoColor=white)](mailto:hoos007@naver.com) [![Git Hub](https://img.shields.io/badge/github-181717?style=flat&logo=github&logoColor=white)](https://github.com/hoos007) [![blog](https://img.shields.io/badge/Tech_blog-00B8FC?style=flat&logo=&logoColor=white)](https://hoos007.github.io)
 
@@ -55,4 +56,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
 -->
